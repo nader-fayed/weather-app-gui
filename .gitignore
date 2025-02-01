@@ -3,11 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Distribution / packaging
-build/
-*.egg-info/
-
-# Environment
+# Environment variables (sensitive)
 .env
 
 # IDE
@@ -15,6 +11,5 @@ build/
 .idea/
 
 # Windows
-*.bat
 Thumbs.db
 Desktop.ini
