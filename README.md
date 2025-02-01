@@ -125,7 +125,7 @@ This project is licensed for **EDUCATIONAL USE ONLY** - see the [LICENSE](LICENS
 ## 📞 Contact & Support
 
 - **Author**: Nader Fayed
-- **Education**: First Year CIS Student at Egyptian E-Learning University (EUI)
+- **Education**: First Year CIS Student at Egypt University for Informatics (EUI)
 - **Email**: naderfayed166@gmail.com
 - **GitHub**: [@nader-fayed](https://github.com/nader-fayed)
 
