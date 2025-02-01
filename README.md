@@ -1,9 +1,11 @@
 # Weather App GUI 🌤️
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Educational](https://img.shields.io/badge/License-Educational%20Use%20Only-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 
 A modern, animated weather application with a beautiful GUI interface. Get real-time weather information for any location with a sleek, user-friendly design.
+
+> **Educational Project**: This application was developed as part of my first-year Computer & Information Sciences studies at Egyptian E-Learning University (EUI). It is intended for educational purposes only and may not be used for commercial purposes.
 
 ![Weather App Screenshot](screenshots/app.png)
 
@@ -103,7 +105,7 @@ python -m PyInstaller weather.spec
 
 ## 📝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+Contributions for educational purposes are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -113,11 +115,17 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed for **EDUCATIONAL USE ONLY** - see the [LICENSE](LICENSE) file for details.
+
+**Important Notice:**
+- Commercial use is strictly prohibited
+- Selling or buying this software or any derivatives is forbidden
+- This software is intended for educational purposes only
 
 ## 📞 Contact & Support
 
 - **Author**: Nader Fayed
+- **Education**: First Year CIS Student at Egyptian E-Learning University (EUI)
 - **Email**: naderfayed166@gmail.com
 - **GitHub**: [@nader-fayed](https://github.com/nader-fayed)
 
@@ -126,7 +134,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tomorrow.io](https://www.tomorrow.io/) for providing the weather API
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) for the GUI framework
 - All contributors who help improve this project
+- Egyptian E-Learning University (EUI) for the educational opportunity
 
 ---
 
-Made with ❤️ by [Nader Fayed](https://github.com/nader-fayed)
+Made with ❤️ by [Nader Fayed](https://github.com/nader-fayed) | First Year CIS Student at EUI
