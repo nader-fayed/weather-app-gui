@@ -1,0 +1,8 @@
+requests==2.31.0
+python-dotenv==1.0.0
+click==8.1.7
+colorama==0.4.6
+geopy==2.4.1
+Pillow==10.2.0
+geocoder==1.38.1
+pyinstaller==6.3.0
